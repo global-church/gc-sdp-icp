@@ -1,10 +1,4 @@
-# 🧪🔥 Ultimate IC Vibe Coding Template
-
-## 👋 Welcome to the Ultimate IC Vibe Coding Template!
-
-This production-ready template powers your Internet Computer development with a complete stack featuring Motoko backend, React frontend, and integrated LLM capabilities. Built for professional developers seeking a fast path from concept to deployment, with testing and CI/CD built-in.
-
-Start building high-performance dapps in minutes, not days.
+# 🧪 Global.Church Shared Data Platform on ICP 
 
 ## Welcome! 👋
 
