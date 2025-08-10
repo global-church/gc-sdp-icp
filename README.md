@@ -57,6 +57,7 @@ A **devcontainer** is preconfigured for you to start coding instantly!
 
 ```bash
 npm install
+npm i -g ic-mops
 mops install
 ```
 
