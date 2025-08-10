@@ -1,4 +1,4 @@
-# 🧪 Global.Church Shared Data Platform on ICP 
+# 🧪 Global.Church Shared Data Platform on ICP
 
 ## Welcome! 👋
 
