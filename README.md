@@ -67,6 +67,7 @@ To be able to test the agent locally, you'll need a server for processing the ag
 See the documentation on the [Ollama website](https://ollama.com/). Run:
 
 ```bash
+curl -fsSL https://ollama.com/install.sh | sh
 ollama serve
 # Expected to start listening on port 11434
 ```
