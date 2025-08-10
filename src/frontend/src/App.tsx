@@ -45,8 +45,10 @@ function App() {
           </div>
 
           <div className="space-y-4">
-            <h1 className="text-4xl font-bold">Vibe Coding Template</h1>
-            <h2 className="text-xl">React + Motoko + Internet Computer</h2>
+            <h1 className="text-4xl font-bold">Global.Church</h1>
+            <h2 className="text-xl">
+              Connecting & mobilizing the global Church
+            </h2>
           </div>
 
           {/* Content Sections */}
